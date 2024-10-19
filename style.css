@@ -13,7 +13,7 @@
 :root {
     /* Colors */
     --primary-color: rgb(0, 0, 0);
-    --secondary-color: orangered;
+    --secondary-color: red;
     --dark-color: #000000;
     --white-color: #fff;
     --light-gray-color: #f2f2f2;
