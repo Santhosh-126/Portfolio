@@ -234,8 +234,8 @@ label .close_btn {
     margin: 10px;
     width: 90%;
     border-radius: 50%;
-    border: 1px solid rgb(0, 0, 0);
-    box-shadow: 0 0 20px rgba(185, 179, 179, 0.244);
+    border: 3px solid rgb(252, 242, 242);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.856);
 }
 
 /* About Us Section */
